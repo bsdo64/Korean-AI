@@ -1,0 +1,21 @@
+Local	Temperature	|	ask_temperature
+Local	Forecast Temperature	|	ask_weather_temperature
+Local	Forecast	|	ask_weather
+Forecast	Search	|	weather_search_location
+Call_to	|	call_to_anyone
+Call_to	Someone	|	call_to_someone
+Typed	Contact_number	|	print_typed_number
+Add	Contact_number	|	add_number
+Delete	Contact_number	|	del_number
+Delete	Typed	Contact_number	|	del_typed_number
+Contact_number	|	print_contact_number
+Recieved	Message	|	recieved_message
+Recieved	Name	Message	|	recieved_name_message
+Counting	Message	|	count_message
+Counting	Name	Message	|	count_name_message
+Delete	Recieved	Message	|	delete_from_message
+Delete	Recieved	Message	Name	|	delete_from_name_message
+Delete	Message	|	delete_message
+Sending	Message	|	send_message
+Temperature	Search	|	temperature_compare_search_location
+Temperature	Search	Min_max	|	temperature_min_max_search_location

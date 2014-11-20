@@ -1,0 +1,4 @@
+Phone_type	Typed
+Phone_number	Contact_number
+Add	Add
+Delete	Delete

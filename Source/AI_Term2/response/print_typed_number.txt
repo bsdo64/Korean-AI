@@ -1,0 +1,1 @@
+Name의 Phone_type번호는 Phone_number입니다.

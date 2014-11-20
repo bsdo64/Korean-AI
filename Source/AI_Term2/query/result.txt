@@ -1,0 +1,8 @@
+ - Command - Call - Call_to Someone  - 
+김철수	n	Name		
+와	j	Conjunction		
+이영희	n	Name		
+에게	j	To		
+전화	n	Call	Call_to	
+걸	v	Call	Call_to	
+어	e	Etc		

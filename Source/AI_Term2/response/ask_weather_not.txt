@@ -1,0 +1,2 @@
+Date	Year년 Month월 Day일의 날씨정보가 없습니다.
+City	City의 날씨정보가 없습니다.

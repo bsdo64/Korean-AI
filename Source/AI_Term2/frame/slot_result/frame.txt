@@ -1,0 +1,10 @@
+Name : call_to_someone
+Domain : Call
+Focus : Call_to Someone 
+
+Slot
+	Call1* : 전화
+	Call2* : 걸
+	Name1 : 김철수
+	Name2 : 이영희
+	To1* : 에게

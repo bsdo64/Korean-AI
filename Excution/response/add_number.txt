@@ -1,0 +1,1 @@
+Name의 Phone_type번호 Phone_number를 추가하였습니다.

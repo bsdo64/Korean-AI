@@ -1,0 +1,1 @@
+Year년 Month월 Day일 City의 기온은 Temperature도 입니다.

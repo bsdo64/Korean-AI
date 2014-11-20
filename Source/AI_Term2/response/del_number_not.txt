@@ -1,0 +1,4 @@
+Name	*
+Phone_type	*
+Phone_number	*
+Delete	*

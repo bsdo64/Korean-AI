@@ -1,0 +1,4 @@
+Time	*
+Name	*
+From	*
+Message	*

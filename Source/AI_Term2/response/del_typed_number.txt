@@ -1,0 +1,1 @@
+Name의 Phone_type번호를 삭제하였습니다.

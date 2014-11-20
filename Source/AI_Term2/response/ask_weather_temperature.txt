@@ -1,0 +1,1 @@
+Year년 Month월 Day일 City의 날씨와 기온은 Weather이고, Temperature도 입니다.

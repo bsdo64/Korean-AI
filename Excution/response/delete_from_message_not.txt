@@ -1,0 +1,6 @@
+Date	*
+Name	*
+From	*
+Message	*
+Count	*
+Delete	*

@@ -1,0 +1,8 @@
+Date	20131118	Name	홍길동	Text	뭐해?
+Date	20131118	Name	김철수	Text	내일_약속시간_10시_괜찮으신가요?
+Date	20131118	Name	김철수	Text	장소는_과학도서관에서_뵙죠
+Date	20131118	Name	김철수	Text	네_내일_뵙죠
+Date	20131119	Name	홍길동	Text	좀_있다가_수업_들어와?
+Date	20131119	Name	김철수	Text	어디시죠?
+Date	20131119	Name	홍길동	Text	그래_조금_있다_보자
+Date	20131119	Name	이영희	Text	오늘_좀_있다가_커피한잔?

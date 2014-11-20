@@ -1,0 +1,8 @@
+﻿  Answer_Function.cpp
+c:\users\병수\documents\visual studio 2012\projects\ai_term3\ai_term2\answer_function.cpp(127): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+c:\users\병수\documents\visual studio 2012\projects\ai_term3\ai_term2\answer_function.cpp(151): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+c:\users\병수\documents\visual studio 2012\projects\ai_term3\ai_term2\answer_function.cpp(273): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+c:\users\병수\documents\visual studio 2012\projects\ai_term3\ai_term2\answer_function.cpp(701): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+c:\users\병수\documents\visual studio 2012\projects\ai_term3\ai_term2\answer_function.cpp(715): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+c:\users\병수\documents\visual studio 2012\projects\ai_term3\ai_term2\answer_function.cpp(792): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+  AI_Term2.vcxproj -> C:\Users\병수\Documents\Visual Studio 2012\Projects\AI_Term3\Debug\AI_Term2.exe

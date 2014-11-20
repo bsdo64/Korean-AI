@@ -1,0 +1,5 @@
+Date	
+Temperature	
+Compare	*
+Min_max	*
+Location	*

@@ -1,0 +1,6 @@
+From	Recieved
+Message	Message
+Delete	Delete
+Send	Sending
+Count	Counting
+Name	Name

@@ -1,0 +1,1 @@
+Year년 Month월 Day일 City의 기온이 Temperature도로 가장 높습니다.

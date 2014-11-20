@@ -1,0 +1,5 @@
+Weather	Weather
+Temperature	Temperature
+Message	Message
+Phone_number	Contact_list
+Call	Call
